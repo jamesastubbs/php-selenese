@@ -1,0 +1,9 @@
+{
+    "name": "chuyskywalker/php-selenese",
+    "autoload": {
+        "psr-0": {
+            "Selenese": "lib"
+        }
+    }
+}
+
